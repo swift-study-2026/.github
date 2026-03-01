@@ -1,27 +1,40 @@
-cat <<EOF > README.md
+<div align="center">
 
-# Swift Study 2026 H1
+# 🍎 2026 H1 Swift Study Archive
 
-> 2026년 상반기 Swift 스터디 아카이브
+**SwiftUI** 및 **Swift Concurrency** 학습 아카이빙을 위한 스터디 공간입니다.
 
----
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Concurrency](https://img.shields.io/badge/Concurrency-007AFF?style=for-the-badge&logo=apple&logoColor=white)
 
-## 📚 소개
-
-이 오거나제이션은 2026년 상반기 동안  
-SwiftUI와 Swift Concurrency를 학습하고 기록하기 위한 공간입니다.
-
-단순 구현이 아닌,  
-구조를 이해하고 선택의 이유를 설명할 수 있는 수준을 목표로 합니다.
+</div>
 
 ---
 
-## 👩🏻‍💻 스터디원
+## 🎯 Goals
 
-- 조영서 (Youngseo)  
-  https://github.com/jjwm10625
+매주 지정된 주제를 학습한 뒤, 개인 레포에 실습 코드를 작성하고 노션에 학습 내용을 정리합니다.
 
-- 김수민  
-  https://github.com/gleamminn
+스터디는 주 2회 온라인을 통해 진행되며, 월요일에는 SwiftUI, 수요일에는 Swift Concurrency를 주제로 코드 리뷰와 인사이트를 공유합니다.
 
-EOF
+서로의 학습 기록을 참고하며 구조적 이해를 확장하는 것을 목표로 합니다.
+
+<br>
+
+## 👩🏻‍💻 Members
+
+| Profile | Name | GitHub |
+|:---:|:---|:---|
+| <a href="https://github.com/gleamminn"><img src="https://github.com/gleamminn.png" width="80" style="border-radius:50%;"></a> | **김수민 (Sumin)** | [@gleamminn](https://github.com/gleamminn) |
+| <a href="https://github.com/jjwm10625"><img src="https://github.com/jjwm10625.png" width="80" style="border-radius:50%;"></a> | **조영서 (Youngseo)** | [@jjwm10625](https://github.com/jjwm10625) |
+
+<br>
+
+---
+
+<div align="center">
+
+© 2026 Swift Study. All rights reserved.
+
+</div>
